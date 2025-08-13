@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "practicing backend setup",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "keywords": [
+    "hello",
+    "backend",
+    "setup"
+  ],
+  "author": "manasa dade",
+  "license": "ISC"
+}
